@@ -1,7 +1,8 @@
 ## Playground to practice HTML and CSS
 
-- Simple [website](https://replit.com/@hannassuzuki/CS50xCourseWebsite#answer.html) that I wrote with HTML and CSS for the "Dive into HTML" assignment in [CS50T](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology).
-- 
+- Wrote a simple [website](https://replit.com/@hannassuzuki/CS50xCourseWebsite#answer.html) with HTML and CSS for the "Dive into HTML" assignment in [CS50T](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology).
+- Tried out [GitHub Pages](https://pages.github.com/) to generate a [web page of this readme.md](https://hssboston.github.io/html-css/). 
+
 
 
 
