@@ -4,6 +4,10 @@
 - Tried out [GitHub Pages](https://pages.github.com/) to generate a [web page of this readme.md](https://hssboston.github.io/html-css/). 
 
 
+### Docs
+- [Using Git on Replit](https://docs.replit.com/category/using-git-on-replit)
+
+
 
 
 
