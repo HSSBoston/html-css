@@ -1,4 +1,6 @@
 .DS_Store
+.replit
+replit.nix
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

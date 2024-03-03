@@ -6,13 +6,7 @@
 
 ### Docs
 - [Using Git on Replit](https://docs.replit.com/category/using-git-on-replit)
-
-
-
-
-
-
-
-
-
+- [Using Markdown on Replit](https://docs.replit.com/tutorials/markdown)
+- Markdown Guide's [cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+- Markdown Guide's [Basic Syntax Overview](https://www.markdownguide.org/basic-syntax/)
 
