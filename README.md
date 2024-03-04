@@ -5,6 +5,7 @@
 
 
 ### Docs
+- HTML Dog's [HTML Tutorials](https://htmldog.com/guides/html/) and [CSS Tutorials](https://htmldog.com/guides/css/)
 - [Using Git on Replit](https://docs.replit.com/category/using-git-on-replit)
 - [Using Markdown on Replit](https://docs.replit.com/tutorials/markdown)
 - Markdown Guide's [cheat sheet](https://www.markdownguide.org/cheat-sheet/)
